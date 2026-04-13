@@ -1,4 +1,4 @@
-# PROGRAMMING FOR DIGITAL ARTS | FINAL PROJECT PROPOSAL 
+# PROGRAMMING FOR DIGITAL ARTS | FINAL PROJECT PROPOSAL 🥶
 
 ## Repository
 <https://github.com/TheSpwardreal/proposal.git>
@@ -10,15 +10,15 @@ This will be relevant to editors wanting to find a way to create interesting fil
 to edit tons of filters to get the psychedelic effect done. 
 
 ## Features
-- Feature 1
+- Feature 1 📺
 	- Grab the original ratio of the given video and use that as the permanent screen canvas.  
-- Feature 2
+- Feature 2 🌈
 	- Apply a rainbow overlay over the video. 
-- Feature 3
+- Feature 3 🪞
 	- Horizontally and Vertically split a mirror version the video.
-- Feature 4 
+- Feature 4 📏
 	- Cut a diagonal 4 side polygon piece of each the video's corners, starting from the center to the border edges.  
-- Feature 5 
+- Feature 5 🪩
 	- Diagonally mirror the corresponding polygons to the video sreen so that they are inverted, helping with the filter. 
 
 ## Challenges
@@ -28,7 +28,7 @@ to edit tons of filters to get the psychedelic effect done.
 
 ## Outcomes
 Ideal Outcome:
-- The ideal outcome should be a makeshift kaliedoscope that has a rainbow filter applied. 
+- The ideal outcome should be a makeshift kaliedoscope that has a rainbow filter applied.
 
 Minimal Viable Outcome:
 - Dodge the rainbow filter and diagonal mirros, at least find a way to horizontally and vertically mirror the video. 
